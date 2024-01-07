@@ -1,2 +1,2 @@
-# iSpraktic
-A house hold blend of fun mobile web data
+Sporadic
+A house hold blend of data.
